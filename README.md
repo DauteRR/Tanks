@@ -53,7 +53,7 @@ To be able to play on Windows, first you have to download the binaries:
 
 |        Round, movement, variable power shots      |      Round winner, leaderboard, distance damage    |
 |             :-------------------------:           |            :-------------------------:             |
-| <img src="gifs/1.gif" width="450" height="373"/>  |  <img src="gifs/2.gif" width="450" height="373" /> |
+| <img src="Docs/gifs/1.gif" width="450" height="373"/>  |  <img src="Docs/gifs/2.gif" width="450" height="373" /> |
 
 ## Author
 

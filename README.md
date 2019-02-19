@@ -8,7 +8,7 @@ There exists two ways of playing my own version of this game:
 
 ### Playing in a browser
 
-Accessing to this [link](https://dauterr.github.io/Unity-Tanks/) you are able to try the game.  
+Accessing to this [link](https://dauterr.github.io/Tanks/) you are able to try the game.  
 
 <span style="color: red">Note that the graphic quality will be slightly worst in the browser version of the game than on Windows version.</span> :exclamation::exclamation:
 
